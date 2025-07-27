@@ -27,7 +27,7 @@ TaxMate is a simple and effective Indian income tax calculator built with **HTML
 
 ## Screenshots
 
-![App Screenshot](https://github.com/nishantrajwal/TaxMate/blob/main/assets/TaxMate-UI.png?raw=true)
+![App Screenshot](https://github.com/nishantrajwal/TaxMate/blob/main/assests/TaxMate-UI.png?raw=true)
 
 
 ---
